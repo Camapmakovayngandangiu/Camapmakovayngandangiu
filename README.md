@@ -4,8 +4,8 @@
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+everyone%2C+I'm+Tuan+Anh+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<h3>Frontend Developer | Backend Developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+everyone%2C+I'm+Tuyet+Mai+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<h3>Game Developer</h3>
 </div>
 
 <br/>
@@ -58,37 +58,23 @@
 
 <br/>
 
-## 🌐 Socials 
-<p align="left">
-<a href="https://linkedin.com/in/tuananhhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuananhhdev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23127030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23127030" height="30" width="40" /></a>
-<a href="https://fb.com/oxaemneee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oxaemneee" height="30" width="40" /></a>
-<a href="https://instagram.com/_oxaemne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_oxaemne" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/may15đtt) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Camapmakovayngandangiu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Camapmakovayngandangiu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camapmakovayngandangiu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
 
-## 💻 Languages and Tools 
-### Front - End
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Camapmakovayngandangiu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Camapmakovayngandangiu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camapmakovayngandangiu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,sass,js,react,vite,nextjs"/>
-
-### Back - End
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,docker" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### ORM
-
-<img src="https://skillicons.dev/icons?i=sequelize,prisma" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,illustrator" />
 
 <br/>
 
