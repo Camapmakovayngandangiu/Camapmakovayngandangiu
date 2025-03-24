@@ -67,9 +67,11 @@
 
 <br/>
 
+## 💻 Languages and Tools 
+- ### Front - End
+<img src="https://skillicons.dev/icons?i=c"/>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Camapmakovayngandangiu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Camapmakovayngandangiu&theme=tokyonight&hide_border=false)<br/>
@@ -83,8 +85,7 @@
           
 <br/>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Camapmakovayngandangiu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <br/>
 
