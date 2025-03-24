@@ -14,16 +14,16 @@
 
 <div align="left">
   
-💼 I’m currently working on <a style="" href="https://github.com/tuananhhdev/Topzone-MERN">Topzone-MERN</a>
+💼 I’m currently working on <a style="" href="https://github.com/Camapmakovayngandangiu/Topzone-MERN">Topzone-MERN</a>
 
 
 - 🌱 I’m currently learning *Backend*
 
-- ❓ Ask me about *JavaScript, React, Node.js, MongoDB, and RESTful APIs*
+- ❓ Ask me about *Java, C# , C++ , SQL *
 
-- 📫 How to reach me *tuananhhdev@gmail.com*
+- 📫 How to reach me *may15ddtt@gmail.com*
 
-- ⚡ Fun fact *I think i'm handsome 😅*
+- ⚡ Fun fact *😅*
 </div>
 
 ###
@@ -46,15 +46,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuananhhdev/tuananhhdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuananhhdev/tuananhhdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tuananhhdev/tuananhhdev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Camapmakovayngandangiu/Camapmakovayngandangiu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Camapmakovayngandangiu/Camapmakovayngandangiu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Camapmakovayngandangiu/Camapmakovayngandangiu/output/pacman-contribution-graph.svg">
 </picture>
 
 <br/>
 
 ## 👁‍🗨 Profile Views
-<a href="https://github.com/tuananhhdev"> <img src="https://komarev.com/ghpvc/?username=tuananhhdev&style=for-the-badge&color=brightgreen" /> </a>
+<a href="https://github.com/Camapmakovayngandangiu"> <img src="https://komarev.com/ghpvc/?username=Camapmakovayngandangiu&style=for-the-badge&color=brightgreen" /> </a>
 
 <br/>
 
@@ -79,19 +79,19 @@
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuananhhdev&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Camapmakovayngandangiu&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
           
 <br/>
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tuananhhdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Camapmakovayngandangiu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tuananhhdev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tuananhhdev&theme=dracula&hide_border=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananhhdev&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Camapmakovayngandangiu&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Camapmakovayngandangiu&theme=dracula&hide_border=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Camapmakovayngandangiu&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
